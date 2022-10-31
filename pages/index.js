@@ -22,10 +22,11 @@ export default function Home() {
         <h1 className="text-6xl">Welcome to <span className="text-blue-400"><Link href="/">ike.dev</Link></span></h1>
 
         <p className="mt-3 text-2xl animate-pulse text-gray-300">
-          My portfolio is under construction 👷
+          Coming soon 👷
         </p>
         <p className="mt-2 text-gray-200">
-          You can view my resume <a className="text-blue-400" href="/resume.pdf">here</a>.
+          {/* You can view my resume <a className="text-blue-400" href="/resume.pdf">here</a>. */}
+          {/* Coming soon. */}
         </p>
       </main>
 
